@@ -1,9 +1,10 @@
-
 # Library Management System
 
 A relational database system built with Microsoft Access to manage a library's core operations: book registration, borrower records, and borrowing/return transactions — replacing manual, error-prone paper tracking with an accurate, searchable digital system.
 
 > **Note:** This project is a Microsoft Access database (`.accdb`). It requires Microsoft Access (2007 or later) installed to open and run.
+>
+> **All project files, documentation, presentation slides, and screenshots are included in this repository.**
 
 ## Features
 
@@ -58,8 +59,10 @@ The **Borrowing** table acts as a junction table connecting **BOOK** and **BORRO
 
 ## Project Documentation
 
-A full project presentation (objectives, design rationale, and walkthrough) is included:
-- `Library_System.pptx`
+All project files are available in this repository:
+- `Library_System.pptx` — Full project presentation (objectives, design rationale, and walkthrough)
+- Database file (`.accdb`)
+- Screenshots and documentation images
 
 ## Author
 
@@ -72,4 +75,3 @@ Department of Computer Science · University of Hail
 ## License
 
 This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
-
