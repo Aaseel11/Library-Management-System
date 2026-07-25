@@ -1,3 +1,4 @@
+
 # Library Management System
 
 A relational database system built with Microsoft Access to manage a library's core operations: book registration, borrower records, and borrowing/return transactions — replacing manual, error-prone paper tracking with an accurate, searchable digital system.
@@ -71,3 +72,4 @@ Department of Computer Science · University of Hail
 ## License
 
 This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
+
