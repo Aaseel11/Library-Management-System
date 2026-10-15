@@ -66,7 +66,7 @@ All project files are available in this repository:
 
 ## Author
 
-**Aseel Alanzi**
+**Aseel Alanazi**
 
 Department of Computer Science · University of Hail
 
